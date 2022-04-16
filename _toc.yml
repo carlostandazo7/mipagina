@@ -6,7 +6,7 @@ root: intro
 chapters:
 - file: markdown
 - file: notebooks
-- file: listadoMaterias
+- file: listadomaterias
 - file: pag01
 - file: pag02
 - file: pag03
